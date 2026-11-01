@@ -1,0 +1,6 @@
+{
+  "name": "PDFNova - Professional Online PDF Suite",
+  "description": "Fast, private, and powerful PDF tools to merge, split, compress, convert, rotate, protect, and organize PDFs right in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
